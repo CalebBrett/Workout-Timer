@@ -1,0 +1,16 @@
+15
+0 foam_roll
+1 toe_to_wall_calf_left
+1 toe_to_wall_calf_right
+1 plantar_flextion_block
+1 one_leg_look_left
+1 one_leg_look_right
+1 dorsi_flexion_kneeling_on_toes
+1 floor_one_left
+1 floor_one_right
+1 hamstring_desk_right
+1 hamstring_desk_left
+1 butterfly
+1 side_lunge_right
+1 side_lunge_left
+1 toe_touch
